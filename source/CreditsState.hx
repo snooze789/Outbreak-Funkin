@@ -89,10 +89,12 @@ class CreditsState extends MusicBeatState
 			['snooze',				'snooze',			'Main Programmer of Outbreak Funkin', 					'https://bit.ly/3KVZbmX',				'389A56'],
 			['Cyptic',				'cyptic',			'Director',														'',								'FFBB1B'],
 			['Imagine',				'imagine',			'artist,music man',												'',								'389A58'],
-			['BIG_Gues',			'guess',			'artist',														'https://bit.ly/36lhcfp',		'389A58'],
+			['BIG_Gues',			'guess',			'artist',												'https://bit.ly/36lhcfp',				'389A58'],
 			['Sr.jp',				'sr.jp',			'artist',														'',								'389A58'],
 			['DC2_Johnston',		'dc2',				'artist,music man',												'',								'389A58'],
 			['Cookiepiexox',		'cookie',			'artist',														'',								'389A58'],
+			['VenganceGD',			'ven',		 		'charter',												'https://bit.ly/3u5kUSq',				'389A58'],
+			['Jellanade',			'jell',		 		' ',															'',								'389A58'],
 
 			
 			
