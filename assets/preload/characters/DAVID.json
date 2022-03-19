@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "david_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-15,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "david_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				1
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "david_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "david_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "david_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-9
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-8
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "singwRIGHTmiss",
+			"fps": 24,
+			"name": "right_miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-42
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "death",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				-42
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "death_confirm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-10,
+				-42
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death_loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "right_miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/save_dave",
+	"position": [
+		0,
+		320
+	],
+	"healthicon": "david",
+	"flip_x": true,
+	"healthbar_colors": [
+		58,
+		64,
+		169
+	],
+	"camera_position": [
+		-10,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

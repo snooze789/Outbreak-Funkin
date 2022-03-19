@@ -1,0 +1,40 @@
+{
+	"storyName": "",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"former",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"happy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"vengance",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "bruj"
+}

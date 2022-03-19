@@ -1,0 +1,31 @@
+{
+	"storyName": "he angy",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "void",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"unfairness",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"Jinx",
+		"bf",
+		"gf"
+	],
+	"weekName": "Bigfoot Jinx's week"
+}

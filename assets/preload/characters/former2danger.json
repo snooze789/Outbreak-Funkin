@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				120
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "FORMER IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				117
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "FORMER LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "FORMER RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-150
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "FORMER DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				181
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "FORMER UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/formertwodANGER",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "formerevil",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		60,
+		60
+	],
+	"camera_position": [
+		-110,
+		-40
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
