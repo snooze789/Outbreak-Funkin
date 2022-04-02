@@ -1,3 +1,5 @@
+#the modification isnt finished
+
 # Outbreak Funkin'
 The mod that is bult on psych engine (woah)
 
@@ -5,12 +7,6 @@ The mod that is bult on psych engine (woah)
 ![image](https://user-images.githubusercontent.com/89538185/159105725-2e38ecb3-1cb1-4d54-999e-cb0ebb1f058c.png)
 
 cyptic compiled this like a month ago or smth its not really accurate
-Director:Cyptic
-Art: Imagine,BIG_Gues,Sr.Jp,Dc2_Johnston,Cookiepiexox
-Coder:Snooze (me)
-Music:Imagine
-Charter: Ven, Dc2_Johnston 
-
 
 
 ## Modcharts
