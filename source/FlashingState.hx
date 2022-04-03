@@ -28,7 +28,8 @@ class FlashingState extends MusicBeatState
 			This Mod contains some flashing lights!\n
 			Press ENTER to disable them now or go to Options Menu.\n
 			Press ESCAPE to ignore this message.\n
-			You've been warned!",
+			You've been warned! \n
+			Also if you have the FPS counter, disable it in the settings because i dont like it",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
 		warnText.screenCenter(Y);

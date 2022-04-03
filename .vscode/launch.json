@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "pwa-msedge",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Edge",
+            "request": "launch",
+            "type": "pwa-msedge",
+            "url": "http://localhost:8080",
+            "webRoot": "S"
+        },
+        {
             "name": "Lime",
             "type": "lime",
             "request": "launch"
