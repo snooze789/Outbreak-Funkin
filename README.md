@@ -1,4 +1,4 @@
-#the modification isnt finished
+#the modification canceled (woah)
 
 # Outbreak Funkin'
 The mod that is bult on psych engine (woah)
